@@ -1,7 +1,11 @@
- <div>
-   <a href="https://github.com/rodolfo-brand">
+## Welcome to my humble profile
+
+![](/hello-there.png)
+ 
+ <div> 
+  <a href="https://github.com/rodolfo-brand">
    <img height="180em" src="https://github-readme-stats-rodolfo-brands-projects.vercel.app/api?username=rodolfo-brand&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolfo-brand&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats-rodolfo-brands-projects.vercel.app/api/top-langs/?username=rodolfo-brand&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
